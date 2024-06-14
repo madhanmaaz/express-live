@@ -1,0 +1,23 @@
+{
+  "name": "express-live",
+  "version": "1.0.0",
+  "description": "Live reload for Express template engines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/madhanmaaz/express-live"
+  },
+  "author": "madhanmaaz",
+  "license": "ISC",
+  "keywords": [
+    "express",
+    "pug",
+    "ejs",
+    "handlebars",
+    "livereload",
+    "template-livereload",
+    "ejs-livereload"
+  ]
+}
