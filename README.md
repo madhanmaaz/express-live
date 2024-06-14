@@ -10,8 +10,9 @@ npm install express-live
 
 ### Install vscode live server
 - Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- Start the live server on vscode
 
-### Usage
+### express-live Usage
 ```javascript
 const express = require('express');
 const app = express();
