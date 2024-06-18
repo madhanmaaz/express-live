@@ -1,6 +1,6 @@
 {
   "name": "express-live",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Live reload for Express template engines.",
   "main": "index.js",
   "scripts": {
